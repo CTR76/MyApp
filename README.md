@@ -1,6 +1,6 @@
 # ⚠️ CẢNH BÁO / WARNING:
 
-**🚨 Hãy cẩn thận trước khi chạy bất kỳ file nào trong repository này.**  
+**🚨 Hãy cẩn thận trước khi chạy bất kỳ file nào trong repository này.**
 **🚨 Be careful before running any files in this repository.**
 
 - Các file trong repository có thể chứa **mã thực thi, script hoặc công cụ thử nghiệm**.  
