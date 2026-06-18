@@ -1,4 +1,4 @@
-# ⚠️ CẢNH BÁO / WARNING
+# ⚠️ CẢNH BÁO / WARNING:
 
 **🚨 Hãy cẩn thận trước khi chạy bất kỳ file nào trong repository này.**  
 **🚨 Be careful before running any files in this repository.**
@@ -14,7 +14,7 @@
 
 ---
 
-# 📄 MIỄN TRỪ TRÁCH NHIỆM / DISCLAIMER
+# 📄 MIỄN TRỪ TRÁCH NHIỆM / DISCLAIMER:
 
 1. **Không chịu trách nhiệm / No liability:**  
    Tác giả repository **không chịu trách nhiệm** về bất kỳ thiệt hại, mất dữ liệu, hay vấn đề phát sinh từ việc sử dụng file trong repository.  
